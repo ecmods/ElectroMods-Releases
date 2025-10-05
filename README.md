@@ -1,6 +1,6 @@
 # ElectroMods Launcher - Releases
 
-<img width="1024" height="1024" alt="ecmodslogo (1)" src="https://github.com/user-attachments/assets/200f9300-9d17-44ae-a22b-a062d381cca2" />
+<img width="520" height="520" alt="ecmodslogo (1)" src="https://github.com/user-attachments/assets/200f9300-9d17-44ae-a22b-a062d381cca2" />
 
 Este repositorio contiene únicamente los releases públicos del ElectroMods Launcher.
 
